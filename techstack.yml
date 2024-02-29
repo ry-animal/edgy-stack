@@ -2,7 +2,7 @@ repo_name: ry-animal/edgy-stack
 report_id: 6bd68772a428ca8eb4ea296d797a6f3d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:15:02+00:00'
+timestamp: '2024-02-29T18:15:05+00:00'
 requested_by: ploskovytskyy
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Oleksandr Ploskovytskyy
   last_updated_on: 2023-04-15 07:50:47.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.2.4
   open_source: true
@@ -129,7 +129,7 @@ tools:
   detection_source_url: https://github.com/ry-animal/edgy-stack
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.6
   license: MIT
